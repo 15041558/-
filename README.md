@@ -1,6 +1,5 @@
-# -<p align="center">
+# <p align="center">
 </div>
- <br><br>
   <samp>
     Hi, I'm Arina 👋<br>
     I'm trying to improve myself in code!<br>
