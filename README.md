@@ -10,5 +10,5 @@
   </samp>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/1163454377055494264"></a>
+  <a href="https://discord.com/users/1163454377055494264"target="_blank"><img src="https://img.shields.io/badge/Discord-Server-pUeeTb6fND?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
