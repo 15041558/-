@@ -9,5 +9,5 @@
 </div>
   </samp>
 <p align="center">
-  <a href="https://discord.gg/pUeeTb6fND" target="_blank"><img src="https://img.shields.io/badge/Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/CjEQqKzU5f" target="_blank"><img src="https://img.shields.io/badge/Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
